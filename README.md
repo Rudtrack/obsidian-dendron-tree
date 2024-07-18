@@ -1,16 +1,15 @@
-# Obsidian Dendron Tree
+# Structured Dendron Tree
 
-Obsidian Dendron Tree adds a tree for exploring [Dendron](https://www.dendron.so/) notes. Features:
-
+Structured Dendron Tree adds a tree for exploring and managing hierarchical notes similar to [Dendron](https://www.dendron.so/). Features:
 ![Dendron Tree](images/dendron-tree.png)
 
 Features:
 
-- Dendron Tree, browse notes easily using tree
-- Lookup
-- Automatically generate frontmatter on a new file
-- Multi vault support
-- Custom resolver and renderer for link and embed
+-   Dendron Tree, browse notes easily using tree
+-   Lookup
+-   Automatically generate frontmatter on a new file
+-   Multi vault support
+-   Custom resolver and renderer for link and embed
 
 ## Dendron Tree
 
@@ -29,12 +28,12 @@ the note.
 You can right-click a note on a Desktop or long-press the note on a Mobile to open the note's menu.
 Note menu will have the following item:
 
-- "Create Current Note". This will create a file for the selected note. This only show when the note
-  does not have a corresponding file.
-- "Create New Note". This will open Lookup with the selected note's path as the initial prompt. You
-  can see lookup documentation on how to use it.
-- "Delete Note". This will delete the selected note file. This only show when the note has a
-  corresponding file.
+-   "Create Current Note". This will create a file for the selected note. This only show when the note
+    does not have a corresponding file.
+-   "Create New Note". This will open Lookup with the selected note's path as the initial prompt. You
+    can see lookup documentation on how to use it.
+-   "Delete Note". This will delete the selected note file. This only show when the note has a
+    corresponding file.
 
 ## Lookup
 
